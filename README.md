@@ -1,2 +1,1 @@
-# Hobo
-Hobos first repository 
+Because fuck you, that's why...
